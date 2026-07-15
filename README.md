@@ -2,6 +2,16 @@
 
 # Babysitter
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/%40a5c-ai%2Fbabysitter?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/%40a5c-ai%2Fbabysitter?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/%40a5c-ai%2Fbabysitter?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.0.165-blue?style=flat-square)](https://www.npmjs.com/package/@a5c-ai/babysitter)
+![npm version](https://img.shields.io/npm/v/%40a5c-ai%2Fbabysitter-breakpoints?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/%40a5c-ai%2Fbabysitter-breakpoints?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/%40a5c-ai%2Fbabysitter-breakpoints?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.0.165-blue?style=flat-square)](https://www.npmjs.com/package/@a5c-ai/babysitter-breakpoints)
+![npm version](https://img.shields.io/npm/v/%40a5c-ai%2Fbabysitter-sdk?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/%40a5c-ai%2Fbabysitter-sdk?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/%40a5c-ai%2Fbabysitter-sdk?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.0.165-blue?style=flat-square)](https://www.npmjs.com/package/@a5c-ai/babysitter-sdk)
+![npm version](https://img.shields.io/npm/v/babysitter-vscode?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/babysitter-vscode?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/babysitter-vscode?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.0.165-blue?style=flat-square)](https://www.npmjs.com/package/babysitter-vscode)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 https://a5c.ai
 
 ---
